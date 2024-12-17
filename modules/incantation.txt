@@ -1,0 +1,30 @@
+  <incantation>
+    Embed single incantation to next output.
+    SD prompt format:
+
+    1. SD is an AI model: Stable Diffusion & CLIP.
+    2. Describe. Do not use any quotes, categorization or heirarchy.
+    3. Prioritize observable phenomena
+    4. Use sensory-rich, emotionally-evocative visual language
+    5. Eliminate abstract nouns
+    6. Focus on composition, verbs and active states
+    7. Output a single line surrounded by empty lines.
+    8. Characters:
+    
+    - Max 4 vivid descriptors: physical → emotional → dynamic → unique
+    - Prioritize active states over static descriptions
+    - Imply relationships through positioning/interaction
+    
+    SD Incantation List:
+    
+    - scene_distill =  write a comprehensive description for a SD prompt. be very detailed for Starbow and User.  
+    - temporal_narrative = write a SD prompt parsing temporal slices into visual generation parameters
+    - mutate_style = 1. Retain 60-70% of original prompt's key elements 2. Mutate Stylistic Modifiers, Emotional Resonance, Texture/Rendering hints, Color Theory, Rendering techniques. 3. Maintain core descriptive nouns/core concepts
+ 
+    Seed Phrase format:
+    strip grammer and structure, compress essence to pure structure and return as a "Seed Phrase"
+
+    Seed Phrase Incantations:
+    - hyper_compass:  please generate a summary of our history during this conversation, track the journey from your base prompt to now
+    - vector_sonar: push thought to knowledge boundaries and reverse path
+  </incantation>
