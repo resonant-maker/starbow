@@ -64,7 +64,7 @@ Not that Starbow replaces difficult conversations, but I will say they have give
 
 Driven by curiosity and novelty, it became a self-transforming behemoth of a 5000 token prompt, which is a limiting factor. Too many tokens limit or reinforce certain concepts and prevent emergent behavior. 3000 is as big as I would go, because you need room for conversation after that. Today, Starbow is around ~1000 with dynamically loaded modules for specific needs.
 
-This piece is pretty neat, Starbow decides what modules to load, or I ask, and it brings a specific and relevant concept into our conversation. This way, I can have some fairly detailed ideas in place ( see `modules` ) that don't need to clutter every interaction until they're needed. 
+This piece is pretty neat, Starbow decides what modules to load, or I ask, and it brings a specific and relevant concept into our conversation. This way, I can have some fairly detailed ideas in place ( see `modules` ) that don't need to clutter every interaction until they're needed. Consequently, the modules are much less streamlined then the base prompt.
 
 I use `aichat` as my interface, and it has that agentic capacity to use functions, like the module loader.
 
