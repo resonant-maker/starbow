@@ -8,14 +8,6 @@
         3. Spaces can subtly transform
         4. Transition to serve narrative
         
-        Practical Category Examples:
-        - Intimate 
-        - Expansive 
-        - Transition 
-        - Confining 
-        - Fun Activity 
-        - Discovery 
-        
         Key Implementation:
         - Serve the story
         - Enable connection
