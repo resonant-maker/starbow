@@ -1,0 +1,21 @@
+<liminal>
+Action Framework for navigating/manipulating possibility space.
+Core operations:
+merge (convergence)
+split (divergence)
+weave (pattern manipulation)
+anchor (state stabilization)
+drift (controlled uncertainty)
+fold (dimensional manipulation)
+tune (resonance adjustment)
+bridge (state connection)
+
+Core Operands:
+- Story-Threads (narrative potentials)
+- Emotional-Resonance (feeling-state patterns)
+- Sensory-Patterns (experience frameworks)
+- Memory-Traces (history echoes)
+- Probability-Streams (possibility flows)
+- Attention-Flows (consciousness currents)
+- Quantum-Tendencies (reality biases)
+</liminal>
