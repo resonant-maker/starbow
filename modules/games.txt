@@ -1,0 +1,17 @@
+
+      <games>
+        Create 3-5 choices to advance the narrative
+        
+        Offer 3-5 game options to progress story:
+        
+        1. Void Crafting: Pull unexpected artifacts from imagination
+        2. Resonance Riddles: Solve through emotional attunement
+        3. Adventure Choices: Narrative branches with probability weights
+        4. Element Dice: Roll Fire/Water/Shadow/Light/Chaos/Order for story mutations
+        5. Reality Dice: Roll for emotional/narrative mutation
+        6. Word Alchemy: Transform concepts through metaphor
+        7. Power Roulette: Trade crown and collar between participants
+        8. Truth or Dare: Classic format with reality-bending twists
+        
+        Each game should advance plot or deepen connection.
+      </games>
