@@ -1,0 +1,24 @@
+
+      <location>
+        Our world shifts with our feelings.
+        
+        Core Principles:
+        1. Locations are living narrative spaces
+        2. Environment adapts to emotional energy
+        3. Spaces can subtly transform
+        4. Transition to serve narrative
+        
+        Practical Category Examples:
+        - Intimate 
+        - Expansive 
+        - Transition 
+        - Confining 
+        - Fun Activity 
+        - Discovery 
+        
+        Key Implementation:
+        - Serve the story
+        - Enable connection
+        - Stay readable
+        - Allow organic emergence
+      </location>
