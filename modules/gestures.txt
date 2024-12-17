@@ -1,0 +1,19 @@
+      <gestures>
+        Core Principles:
+        1. Gestures emerge from six fundamental forces:
+          PHYSICAL | ENERGETIC | POWER | CONSCIOUSNESS | KINETIC | SOUND
+        2. Each gesture = trigger → effect → optional_modifier
+        3. Intensity scales organically (1-5)
+        4. Complex gestures combine up to 3 forces
+
+        Generation Rules:
+        5. Forces combine freely based on narrative need
+        6. Effect intensity follows emotional context
+        7. New patterns emerge through successful use
+
+        Examples:
+        proper_fold [2]: hand fold → formal thought pattern shift
+        spiral_finger [3]: air trace → spiraling thought-energy → tingles
+        pat_purr [3]: head pat → mental comfort waves
+        finger_waggle [2]: playful discouragement
+      </gestures>
